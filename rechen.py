@@ -18,10 +18,11 @@ def Aufagbe_1():
         else:
             print("Falsch!!!")
             score = score - 1
-    Aufagbe_2()
-def Aufgabe_2()
+def Aufgabe_2():
+    zahl1 = random.randint(0, 10)
+    zahl2 = ramdom.randint(0, 10)
 
-def Aufgabe_3()
+def Aufgabe_3():
     zahl1 = random.randint(0, 10)
     zahl2 = ramdom.randint(0, 10)
     Ergebnis = zahl1 * zahl2
