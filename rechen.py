@@ -20,11 +20,11 @@ def Aufagbe_1():
             score = score - 1
 def Aufgabe_2():
     zahl1 = random.randint(0, 10)
-    zahl2 = ramdom.randint(0, 10)
+    zahl2 = random.randint(0, 10)
 
 def Aufgabe_3():
     zahl1 = random.randint(0, 10)
-    zahl2 = ramdom.randint(0, 10)
+    zahl2 = random.randint(0, 10)
     Ergebnis = zahl1 * zahl2
     Ergebnisstr = str.Ergebnis
     Frage = input(f"Berechne {zahl1}x{zahl2}")
