@@ -26,11 +26,11 @@ def Aufgabe_3():
     zahl1 = random.randint(0, 10)
     zahl2 = random.randint(0, 10)
     Ergebnis = zahl1 * zahl2
-    Ergebnisstr = str.Ergebnis
+    Ergebnistr = str.Ergebnis
     Frage = input(f"Berechne {zahl1}x{zahl2}")
     if Frage == Ergebnistr:
         print("Diese Antwort war richtig")
-        score = score+1
+        score = score +1
     else:
         print("Diese Antwort war falsch")
         score = score - 1
